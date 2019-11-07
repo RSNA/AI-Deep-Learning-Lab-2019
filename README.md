@@ -1,11 +1,11 @@
 
-# RSNA Deep Learning Classroom 2019
+# RSNA AI Deep Learning Lab 2019
 
 ## Intro
 
 Welcome Deep Learners!  
 
-This document provides all the information you need to participate in the RSNA Deep Learning Classrooms.
+This document provides all the information you need to participate in the RSNA AI Deep Learning Lab.
 
 Here's the schedule of [classes](#class-schedule)
 
