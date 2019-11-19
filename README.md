@@ -7,7 +7,7 @@ Welcome Deep Learners!
 
 This document provides all the information you need to participate in the RSNA AI Deep Learning Lab. This set of classes provides a hands-on opportunity to engage with deep learning tools, write basic algorithms, learn how to organize data to implement deep learning and improve your understanding of AI technology. 
 
-The classes will be held in the RSNA AI Deep Learning Lab classroom, which is located in the AI Showcase in North Building, Level 2, space 10342. Here's the schedule of [classes](#class-schedule) CME credit is available for each session.
+The classes will be held in the RSNA AI Deep Learning Lab classroom, which is located in the AI Showcase in North Building, Level 2, space 10342. Here's the schedule of [classes](#class-schedule). CME credit is available for each session.
 
 
 ## Requirements
