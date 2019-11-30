@@ -24,7 +24,7 @@ Lesson 2: [Data Wrangling](https://colab.research.google.com/github/ImagingInfor
 
 Lesson 3: [Segmentation](https://colab.research.google.com/github/fangyi-mdai/rsna-2019-segmentation/blob/master/brain_segmentation.ipynb) 
 
-Lesson 4: [GANs](https://colab.research.google.com/github/RSNA/AI-Deep-Learning-Lab/blob/master/DeepLearningLab-BasicGAN.ipynb)
+Lesson 4: [Generative Adversarial Networks (GANs)](https://colab.research.google.com/github/RSNA/AI-Deep-Learning-Lab/blob/master/DeepLearningLab-BasicGAN.ipynb)
 
 
 ## Class Schedule
