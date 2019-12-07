@@ -22,7 +22,7 @@ Lesson 1: [Beginners: Classification Task](https://colab.research.google.com/git
 
 Lesson 2: [Data Wrangling](https://colab.research.google.com/drive/18oDII_jjAe0cztLa-1ONC2kR1rlpKDsk)
 
-Lesson 3: [Image Segmentation](https://colab.research.google.com/github/fangyi-mdai/rsna-2019-segmentation/blob/master/brain_segmentation.ipynb) 
+Lesson 3: [Image Segmentation](https://colab.research.google.com/github/fangyi-mdai/rsna-2019-segmentation/blob/master/brain_segmentation.ipynb) ([Slides](http://segmentation.hai.bio))
 
 Lesson 4: [Generative Adversarial Networks (GANs)](https://colab.research.google.com/github/RSNA/AI-Deep-Learning-Lab/blob/master/DeepLearningLab-BasicGAN.ipynb)
 
